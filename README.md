@@ -1,4 +1,4 @@
 # hello-world
 testing
 
-Yet more testing
+Yet more tests
